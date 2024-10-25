@@ -1,8 +1,5 @@
 # Building-a-Quiz-Webpage
-In this  small webpage, we'll build a quiz webpage. we'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
-
-Here’s a draft for the README file:
-
+We'll build a quiz webpage. we'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.
 ---
 
 # Learning Accessibility by Building a Quiz Webpage
